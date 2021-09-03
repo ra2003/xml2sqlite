@@ -7,15 +7,25 @@
 UL.db
 #data in csv 
 csv/
+/csv
+/csv/
 #data in xml in ish_unziped/
 
 #unzipped
 ish_unziped/
+/ish_unziped
+/ish_unziped/
 #ziped
 ish/
+/ish
+/ish/
 .vscode/
+/.vscode/
+/.vscode
 #venv
 .venv/
+/.venv
+/.venv/
 
 27.08.2021_export_table_oborot_2019_fns.csv 
 combined_csv.csv 
