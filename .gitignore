@@ -1,0 +1,23 @@
+#.gitignore for xml2sqlite
+
+#data base files
+*.sqlite
+*.sqlite3
+*.db
+UL.db
+#data in csv 
+csv/
+#data in xml in ish_unziped/
+
+#unzipped
+ish_unziped/
+#ziped
+ish/
+.vscode/
+#venv
+.venv/
+
+27.08.2021_export_table_oborot_2019_fns.csv 
+combined_csv.csv 
+data-20210801-structure-20180801.zip
+UL.db 
