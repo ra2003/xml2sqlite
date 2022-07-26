@@ -1,5 +1,3 @@
-# D:\2021_8_16_oborot\05.09.2021_all_csv_to_one_csv.py
-
 import os
 import glob
 
