@@ -1,5 +1,3 @@
-#/d:/2021_8_16_oborot/26.08.2021_finish_csv_to_sqlite_data1.py (git)
-
 import sqlite3
 import csv
 
