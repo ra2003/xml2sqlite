@@ -1,5 +1,3 @@
-#/d:/2021_8_16_oborot/README.md (git)
-"# xml2sqlite"
 ##https://habr.com/ru/post/577148/
 ##All rights reserved Serj Kado aka nasingfaund
 
