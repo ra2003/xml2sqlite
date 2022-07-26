@@ -1,4 +1,3 @@
-#/d:/2021_8_16_oborot/2021_8_16_xsd_validate_xml_file.py (git)
 import lxml
 from lxml import etree
 
